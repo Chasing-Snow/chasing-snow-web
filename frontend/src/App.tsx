@@ -38,17 +38,29 @@ function App() {
         <aside className="sidebar">
             <h3>Shopping Categories</h3> 
             <button className="sidebar-close-button" onClick={closeMenu}>x</button>
-            <ul>
+            <ul className="products">
+                {data.products.map((products)  =>  (
                 <li>
-                    <a href="index.html">Pants</a>
+                 <div className="product">
+                 <img 
+                  className="product-image"
+                  src={Products.imageUrl}
+                  alt="product"
+                 /> 
+                 <div className="product-name">
+                    <a href="product.html">{products.name}</a>
+                 </div>   
+                 <div className="product-brand">{products.brand}</div>
+                 <div className="product-price">{products.price}</div>
+                 <div className="product-rating">
+                    {products.rating} Stars ({products.numberOfReviews} reviews)
+                 </div>
+                 </div>
                 </li>
-
-                <li>
-                    <a href="index.html">Shirts</a>
-                </li>
+                ))}
+                ;
             </ul>
-            </aside>
-        </div>
+            
         <main className='main'>
             <Routes>
                 <Route path="/" element={<Home />} />
