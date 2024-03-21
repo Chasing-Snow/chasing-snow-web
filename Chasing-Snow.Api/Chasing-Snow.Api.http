@@ -1,0 +1,6 @@
+@Chasing_Snow.Api_HostAddress = http://localhost:5204
+
+GET {{Chasing_Snow.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
