@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ln8UOzZOFs5O2zZgmjbUHhLA4S+X0hb2fUddKNKp91Lc9hUe/6j01RE7ZEjh7tmwYvC8l24EoSn5vl8ZJdud4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\carso\\OneDrive\\Documents\\GitHub\\repos\\repos-chasing-snow-web\\Chasing-Snow.Api\\Chasing-Snow.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\carso\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.3\\microsoft.aspnetcore.openapi.8.0.3.nupkg.sha512",
+    "C:\\Users\\carso\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\carso\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\carso\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\carso\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\carso\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\carso\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
