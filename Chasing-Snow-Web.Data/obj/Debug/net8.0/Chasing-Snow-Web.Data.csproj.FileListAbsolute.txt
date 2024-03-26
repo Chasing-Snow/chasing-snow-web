@@ -1,0 +1,12 @@
+/Users/justinsparacino/Documents/GitHub/chasing-snow-web/Chasing-Snow-Web.Data/bin/Debug/net8.0/Chasing-Snow-Web.Data.deps.json
+/Users/justinsparacino/Documents/GitHub/chasing-snow-web/Chasing-Snow-Web.Data/bin/Debug/net8.0/Chasing-Snow-Web.Data.dll
+/Users/justinsparacino/Documents/GitHub/chasing-snow-web/Chasing-Snow-Web.Data/bin/Debug/net8.0/Chasing-Snow-Web.Data.pdb
+/Users/justinsparacino/Documents/GitHub/chasing-snow-web/Chasing-Snow-Web.Data/obj/Debug/net8.0/Chasing-Snow-Web.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justinsparacino/Documents/GitHub/chasing-snow-web/Chasing-Snow-Web.Data/obj/Debug/net8.0/Chasing-Snow-Web.Data.AssemblyInfoInputs.cache
+/Users/justinsparacino/Documents/GitHub/chasing-snow-web/Chasing-Snow-Web.Data/obj/Debug/net8.0/Chasing-Snow-Web.Data.AssemblyInfo.cs
+/Users/justinsparacino/Documents/GitHub/chasing-snow-web/Chasing-Snow-Web.Data/obj/Debug/net8.0/Chasing-Snow-Web.Data.csproj.CoreCompileInputs.cache
+/Users/justinsparacino/Documents/GitHub/chasing-snow-web/Chasing-Snow-Web.Data/obj/Debug/net8.0/Chasing-Snow-Web.Data.sourcelink.json
+/Users/justinsparacino/Documents/GitHub/chasing-snow-web/Chasing-Snow-Web.Data/obj/Debug/net8.0/Chasing-Snow-Web.Data.dll
+/Users/justinsparacino/Documents/GitHub/chasing-snow-web/Chasing-Snow-Web.Data/obj/Debug/net8.0/refint/Chasing-Snow-Web.Data.dll
+/Users/justinsparacino/Documents/GitHub/chasing-snow-web/Chasing-Snow-Web.Data/obj/Debug/net8.0/Chasing-Snow-Web.Data.pdb
+/Users/justinsparacino/Documents/GitHub/chasing-snow-web/Chasing-Snow-Web.Data/obj/Debug/net8.0/ref/Chasing-Snow-Web.Data.dll
