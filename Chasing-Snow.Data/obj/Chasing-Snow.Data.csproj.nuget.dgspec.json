@@ -1,86 +1,9 @@
 {
   "format": 1,
   "restore": {
-    "/Users/justinsparacino/Documents/GitHub/chasing-snow-web/Chasing-Snow.Api/Chasing-Snow.Api.csproj": {}
+    "/Users/justinsparacino/Documents/GitHub/chasing-snow-web/Chasing-Snow.Data/Chasing-Snow.Data.csproj": {}
   },
   "projects": {
-    "/Users/justinsparacino/Documents/GitHub/chasing-snow-web/Chasing-Snow.Api/Chasing-Snow.Api.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "/Users/justinsparacino/Documents/GitHub/chasing-snow-web/Chasing-Snow.Api/Chasing-Snow.Api.csproj",
-        "projectName": "Chasing-Snow.Api",
-        "projectPath": "/Users/justinsparacino/Documents/GitHub/chasing-snow-web/Chasing-Snow.Api/Chasing-Snow.Api.csproj",
-        "packagesPath": "/Users/justinsparacino/.nuget/packages/",
-        "outputPath": "/Users/justinsparacino/Documents/GitHub/chasing-snow-web/Chasing-Snow.Api/obj/",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "/Users/justinsparacino/.nuget/NuGet/NuGet.Config"
-        ],
-        "originalTargetFrameworks": [
-          "net8.0"
-        ],
-        "sources": {
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
-            "projectReferences": {
-              "/Users/justinsparacino/Documents/GitHub/chasing-snow-web/Chasing-Snow.Data/Chasing-Snow.Data.csproj": {
-                "projectPath": "/Users/justinsparacino/Documents/GitHub/chasing-snow-web/Chasing-Snow.Data/Chasing-Snow.Data.csproj"
-              },
-              "/Users/justinsparacino/Documents/GitHub/chasing-snow-web/Chasing-Snow.Domain/Chasing-Snow.Domain.csproj": {
-                "projectPath": "/Users/justinsparacino/Documents/GitHub/chasing-snow-web/Chasing-Snow.Domain/Chasing-Snow.Domain.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
-          "dependencies": {
-            "Microsoft.AspNetCore.OpenApi": {
-              "target": "Package",
-              "version": "[8.0.3, )"
-            },
-            "Microsoft.EntityFrameworkCore.Sqlite": {
-              "target": "Package",
-              "version": "[8.0.3, )"
-            },
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.4.0, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
-        }
-      }
-    },
     "/Users/justinsparacino/Documents/GitHub/chasing-snow-web/Chasing-Snow.Data/Chasing-Snow.Data.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -118,6 +41,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
