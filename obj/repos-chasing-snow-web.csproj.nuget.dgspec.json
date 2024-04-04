@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\carso\\OneDrive\\Documents\\GitHub\\repos\\repos-chasing-snow-web\\Chasing-Snow-Web.Data\\Chasing-Snow-Web.Data.csproj": {}
+    "C:\\Users\\carso\\OneDrive\\Documents\\GitHub\\repos\\repos-chasing-snow-web\\repos-chasing-snow-web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\carso\\OneDrive\\Documents\\GitHub\\repos\\repos-chasing-snow-web\\Chasing-Snow-Web.Data\\Chasing-Snow-Web.Data.csproj": {
+    "C:\\Users\\carso\\OneDrive\\Documents\\GitHub\\repos\\repos-chasing-snow-web\\repos-chasing-snow-web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\carso\\OneDrive\\Documents\\GitHub\\repos\\repos-chasing-snow-web\\Chasing-Snow-Web.Data\\Chasing-Snow-Web.Data.csproj",
-        "projectName": "Chasing-Snow-Web.Data",
-        "projectPath": "C:\\Users\\carso\\OneDrive\\Documents\\GitHub\\repos\\repos-chasing-snow-web\\Chasing-Snow-Web.Data\\Chasing-Snow-Web.Data.csproj",
+        "projectUniqueName": "C:\\Users\\carso\\OneDrive\\Documents\\GitHub\\repos\\repos-chasing-snow-web\\repos-chasing-snow-web.csproj",
+        "projectName": "repos-chasing-snow-web",
+        "projectPath": "C:\\Users\\carso\\OneDrive\\Documents\\GitHub\\repos\\repos-chasing-snow-web\\repos-chasing-snow-web.csproj",
         "packagesPath": "C:\\Users\\carso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\carso\\OneDrive\\Documents\\GitHub\\repos\\repos-chasing-snow-web\\Chasing-Snow-Web.Data\\obj\\",
+        "outputPath": "C:\\Users\\carso\\OneDrive\\Documents\\GitHub\\repos\\repos-chasing-snow-web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\carso\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -37,6 +37,24 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[3.0.4, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[3.0.4, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.6.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
