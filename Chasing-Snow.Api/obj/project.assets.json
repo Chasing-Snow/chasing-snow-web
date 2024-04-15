@@ -4907,19 +4907,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\carso\\.nuget\\packages\\": {}
+    "/Users/justinsparacino/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\carso\\OneDrive\\Documents\\GitHub\\repos\\repos-chasing-snow-web\\Chasing-Snow.Api\\Chasing-Snow.Api.csproj",
+      "projectUniqueName": "/Users/justinsparacino/Documents/GitHub/chasing-snow-web/Chasing-Snow.Api/Chasing-Snow.Api.csproj",
       "projectName": "Chasing-Snow.Api",
-      "projectPath": "C:\\Users\\carso\\OneDrive\\Documents\\GitHub\\repos\\repos-chasing-snow-web\\Chasing-Snow.Api\\Chasing-Snow.Api.csproj",
-      "packagesPath": "C:\\Users\\carso\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\carso\\OneDrive\\Documents\\GitHub\\repos\\repos-chasing-snow-web\\Chasing-Snow.Api\\obj\\",
+      "projectPath": "/Users/justinsparacino/Documents/GitHub/chasing-snow-web/Chasing-Snow.Api/Chasing-Snow.Api.csproj",
+      "packagesPath": "/Users/justinsparacino/.nuget/packages/",
+      "outputPath": "/Users/justinsparacino/Documents/GitHub/chasing-snow-web/Chasing-Snow.Api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\carso\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/justinsparacino/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -4931,11 +4931,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\carso\\OneDrive\\Documents\\GitHub\\repos\\repos-chasing-snow-web\\Chasing-Snow.Data\\Chasing-Snow.Data.csproj": {
-              "projectPath": "C:\\Users\\carso\\OneDrive\\Documents\\GitHub\\repos\\repos-chasing-snow-web\\Chasing-Snow.Data\\Chasing-Snow.Data.csproj"
+            "/Users/justinsparacino/Documents/GitHub/chasing-snow-web/Chasing-Snow.Data/Chasing-Snow.Data.csproj": {
+              "projectPath": "/Users/justinsparacino/Documents/GitHub/chasing-snow-web/Chasing-Snow.Data/Chasing-Snow.Data.csproj"
             },
-            "C:\\Users\\carso\\OneDrive\\Documents\\GitHub\\repos\\repos-chasing-snow-web\\Chasing-Snow.Domain\\Chasing-Snow.Domain.csproj": {
-              "projectPath": "C:\\Users\\carso\\OneDrive\\Documents\\GitHub\\repos\\repos-chasing-snow-web\\Chasing-Snow.Domain\\Chasing-Snow.Domain.csproj"
+            "/Users/justinsparacino/Documents/GitHub/chasing-snow-web/Chasing-Snow.Domain/Chasing-Snow.Domain.csproj": {
+              "projectPath": "/Users/justinsparacino/Documents/GitHub/chasing-snow-web/Chasing-Snow.Domain/Chasing-Snow.Domain.csproj"
             }
           }
         }
@@ -4998,7 +4998,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.103/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
