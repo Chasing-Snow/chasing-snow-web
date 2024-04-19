@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Chasing-Snow.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2cbc4653e74e8a3ba97c4283338b1caf7042289")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c58a79e53ce122309fee845063f860a97f4f799f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Chasing-Snow.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Chasing-Snow.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
